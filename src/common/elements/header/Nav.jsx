@@ -58,9 +58,24 @@ const Nav = ({posts}) => {
     return (
         <ul className="mainmenu">
             <li className="menu-item-has-children"><a href="/">Home</a></li>
+            <li>
+                <Link href="/about">
+                    <a>About</a>
+                </Link>
+            </li>
+            <li>
+                <Link href="/post-list">
+                    <a>Archive</a>
+                </Link>
+            </li>
+            <li>
+                <Link href="/black-horror">
+                    <a>Black Horror</a>
+                </Link>
+            </li>
             <li className="menu-item-has-children megamenu-wrapper">
                 <Link href="#">
-                    <a>Reviews</a>
+                    <a>Categories</a>
                 </Link>
                 <ul className="megamenu-sub-menu">
                     <li className="megamenu-item">
@@ -133,16 +148,6 @@ const Nav = ({posts}) => {
                     </li>
                 </ul>
             </li>            
-            <li>
-                <Link href="/about">
-                    <a>About TFQ</a>
-                </Link>
-            </li>
-            <li>
-                <Link href="/black-horror">
-                    <a>Black Horror</a>
-                </Link>
-            </li>
             <li>
                 <Link href="/data-project">
                     <a>The Data Project</a>

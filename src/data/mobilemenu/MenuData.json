@@ -4,8 +4,12 @@
         "path": "/"
     },
     {
-        "label": "About TFQ",
+        "label": "About",
         "path": "/about" 
+    },
+    {
+        "label": "Archive",
+        "path": "/post-list" 
     },
     {
         "label": "Black Horror",
