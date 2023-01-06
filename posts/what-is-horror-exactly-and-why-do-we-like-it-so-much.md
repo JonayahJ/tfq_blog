@@ -2,6 +2,7 @@
 postFormat: 'standard'
 title: 'What Is Horror Exactly and Why Do We Like It So Much?'
 featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672982017/The%20Fright%20Queen/Horror%20101/Scream-DBarrymore_bn8j8n.jpg'
+featured: false
 slidePost: true
 date: 'Feb 14 2021'
 pCate: 'Horror 101'
@@ -69,7 +70,7 @@ Why even ask this question?  Because it's necessary.  So many titles are miscate
 
 And that last word, unknown, is key.  As a first-year in college, I took an English course on monsters.  Throughout that entire semester, we discussed everything from the Minotaur to circus "geeks."  And it always came down to this one thing, this one theme:  People are afraid of the unknown.  Once that which is unknown becomes known, fear dissipates.  Take for instance ghost stories.  So many of them rely on people's fear of the dark.  But why are we afraid of the dark?  Because we don't know what's in it, what waits for us, what will pounce the moment it gets a chance.
 
-The intent to elicit a sense of dread in the reader through frightening images, themes, and situations.  A horror story often shocks and provokes with its exploration of the unknown.
+### The intent to elicit a sense of dread in the reader through frightening images, themes, and situations.  A horror story often shocks and provokes with its exploration of the unknown.
 
 Now let's say you shine a light on the darkness.  There are two options, nothing is there or something is there.  If there is nothing, you go about your business.  If there is something, you have identified the source of the fear.  In that case, there are now more options from which to choose: fear the thing and what it can do to you (the unknown) or fight back/flee.  If you don't know that the thing is, you're back to square one, afraid of the unknown.  The cycle then repeats until you identify what the thing is.  On the other hand, if you already know what the thing is and choose to flee or fight back, then there is no need to fear the thing anymore.  You know what it's going to do.  What you don't know is how much it will hurt, until Mike Meyers introduces your insides to the outside with a kitchen utensil. But that's neither here nor there.  Instead, you are met with the thrill of the chase, the hunt, the will to escape or destroy that which would destroy you. Consequently, the horror then becomes a thriller, which is why so often horror is cross-identified as thrillers.
 
