@@ -8,10 +8,6 @@
         "path": "/about" 
     },
     {
-        "label": "The Lair",
-        "path": "/lair"
-    },
-    {
         "label": "Black Horror",
         "path": "/black-horror"
     },

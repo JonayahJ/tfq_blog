@@ -1,6 +1,5 @@
 import InstagramOne from "../common/components/instagram/InstagramOne";
 import BreadcrumbTwo from "../common/elements/breadcrumb/breadcrumbTwo";
-import FooterThree from "../common/elements/footer/FooterThree";
 import HeaderOne from "../common/elements/header/HeaderOne";
 import { getAllPosts } from '../../lib/api';
 import WidgetCategory from "../common/components/sidebar/WidgetCategory";
@@ -8,6 +7,7 @@ import WidgetSearch from "../common/components/sidebar/WidgetSearch";
 import WidgetPostList from "../common/components/sidebar/WidgetPostList";
 import WidgetSocialShare from "../common/components/sidebar/WidgetSocialShare";
 import HeadTitle from "../common/elements/head/HeadTitle";
+import FooterTwo from "../common/elements/footer/FooterTwo";
 
 const TheLair = ({allPosts}) => {
     return (
@@ -15,9 +15,7 @@ const TheLair = ({allPosts}) => {
         <HeadTitle pageTitle="The Lair" />
             <HeaderOne postData={allPosts} />
             <BreadcrumbTwo
-                title="The Lair"
-                paragraph="Wherever &amp; whenever you need us. We are here for you – contact us for all your support needs. <br />
-            be it technical, general queries or information support."
+                title="The Lair of the Fright Queen"
                 bgImae="url('images/bg/bg-image-1.webp')"
             />
             <div className="axil-post-list-area axil-section-gap bg-color-white">
@@ -27,16 +25,9 @@ const TheLair = ({allPosts}) => {
                             {/* Start About Area  */}
                             <div className="axil-about-us">
                                 <div className="inner">
-                                    <h3>The Professional Publishing Platform</h3>
-                                    <p>Aenean consectetur massa quis sem volutpat, a condimentum tortor pretium. Cras id ligula consequat, sagittis nulla at, sollicitudin lorem. Orci varius natoque penatibus et magnis dis parturient montes.</p>
-                                    <p> Cras id ligula consequat, sagittis nulla at, sollicitudin lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus eleifend, dolor vel condimentum imperdiet.</p>
-                                    <p>In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready. Think of a news blog that’s filled with content hourly on the day of going live. However, reviewers tend to be distracted by comprehensible content, say, a random text copied from a newspaper or the internet. The are likely to focus on the text, disregarding the layout and its elements.</p>
-                                    <h3>Our Growing News Network</h3>
-                                    <p>Cicero famously orated against his political opponent Lucius Sergius Catilina. Occasionally the first Oration against Catiline is taken for type specimens: Quo usque tandem abutere, Catilina, patientia nostra? Quam diu etiam furor iste tuus nos eludet? (How long, O Catiline, will you abuse our patience? And for how long will that madness of yours mock us?)</p>
-                                    <p>Most text editors like MS Word or Lotus Notes generate random lorem text when needed, either as pre-installed module or plug-in to be added. Word selection or sequence don’t necessarily match the original, which is intended to add variety. </p>
-                                    <h3>The Professional Publishing Platform</h3>
-                                    <p>Cicero famously orated against his political opponent Lucius Sergius Catilina. Occasionally the first Oration against Catiline is taken for type specimens: Quo usque tandem abutere, Catilina, patientia nostra? Quam diu etiam furor iste tuus nos eludet? (How long, O Catiline, will you abuse our patience? And for how long will that madness of yours mock us?)</p>
-                                    <p>Most text editors like MS Word or Lotus Notes generate random lorem text when needed, either as pre-installed module or plug-in to be added. Word selection or sequence don’t necessarily match the original, which is intended to add variety.</p>
+                                    <h3>Welcome to The Lair of the Fright Queen!</h3>
+                                    <p>Hi there ghouls and gals, and everything in between! I'm so excited you’ve decided to think about joining (or were curious about what the Lair is). If you're an avid horror fan or enthusiast, then this is the place for you. We do everything from discussing movies to comic books, testing cute little bots that I create in my spare time, playing tabletop games like Vampire: the Masquerade, screening movies together, and more!  If that sounds like something you're interested in, join our fledgling Discord server and come watch movies with us on Scener!</p>
+                                    <p>Hope to see you there!</p>
                                 </div>
                             </div>
                             {/* End About Area  */}
@@ -54,7 +45,7 @@ const TheLair = ({allPosts}) => {
             </div>
 
             <InstagramOne parentClass="bg-color-grey" />
-            <FooterThree />
+            <FooterTwo />
         </>
     );
 }

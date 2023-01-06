@@ -138,11 +138,11 @@ const Nav = ({posts}) => {
                     <a>About TFQ</a>
                 </Link>
             </li>
-            <li>
+            {/* <li>
                 <Link href="/lair">
                     <a>The Lair</a>
                 </Link>
-            </li>
+            </li> */}
             <li>
                 <Link href="/black-horror">
                     <a>Black Horror</a>
