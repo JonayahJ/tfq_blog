@@ -10,7 +10,7 @@ const PostSectionOne = ({postData}) => {
     return ( 
         <div className="axil-featured-post axil-section-gap bg-color-grey">
             <div className="container">
-                <SectionTitleOne title="More Featured Posts." />
+                <SectionTitleOne title="Recent Articles." />
                 <div className="row" ref={hoverRef}>
                     <PostLayoutOne postData={postData} itemShow="2"/>
                 </div>

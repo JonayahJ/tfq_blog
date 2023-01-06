@@ -21,18 +21,18 @@ const HomeDefault = ({allPosts}) => {
   return ( 
     <>
       <HeadTitle pageTitle="Homepage" />
-      <HeaderOne postData={allPosts}/>
-      <SliderOne postData={allPosts} />
-      <PostSectionOne postData={allPosts}/>
-      <PostSectionTwo postData={allPosts} adBanner={true} />
-      <CategoryList cateData={allPosts}/>
-      <PostSectionSix postData={allPosts} />
-      <SocialOne />
-      <PostSectionFive postData={allPosts}/>
-      <PostSectionFour postData={allPosts} adBanner={true} />
-      <PostSectionThree postData={videoPost} heading="Featured Video"/>
-      <InstagramOne parentClass="bg-color-grey"/>
-      <FooterTwo />
+      <HeaderOne postData={allPosts}/> {/* Main header: navigation */}
+      <SliderOne postData={allPosts} /> {/* Main header: featured blog posts */}
+      <PostSectionOne postData={allPosts}/> {/* Recent Articles */}
+      <PostSectionTwo postData={allPosts} adBanner={true} /> {/* Different Kinds of Reviews */}
+      {/* <CategoryList cateData={allPosts}/> Trending Topics */}
+      {/* <PostSectionSix postData={allPosts} /> Most Popular 1 */}
+      <SocialOne /> {/* Social links */}
+      {/* <PostSectionFive postData={allPosts}/> More Horror Goodies */}
+      {/* <PostSectionFour postData={allPosts} adBanner={true} /> Post Archive */}
+      {/* <PostSectionThree postData={videoPost} heading="Featured Video"/> */}
+      <InstagramOne parentClass="bg-color-grey"/> {/* IG links */}
+      <FooterTwo /> {/* Simplest Footer */}
       
     </>
    );

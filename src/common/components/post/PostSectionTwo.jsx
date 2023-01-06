@@ -12,20 +12,24 @@ const filters = [
  
   {
     id: 1,
-    cate: "Gadget",
+    cate: "Horror 101",
   },
   {
     id: 2,
-    cate: "Design",
+    cate: "Black Horror",
   },
   {
     id: 3,
-    cate: "Marketing",
+    cate: "Deep Dives",
   },
-  {
-    id: 4,
-    cate: "Technology",
-  },
+  // {
+  //   id: 4,
+  //   cate: "Audio",
+  // },
+  // {
+  //   id: 5,
+  //   cate: "Games",
+  // }
 ];
 const defaultActiveCat = slugify(filters[0].cate);
 
@@ -113,7 +117,9 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
     <div className="axil-tab-area axil-section-gap bg-color-white">
       <div className="wrapper">
         <div className="container">
-			{adBanner === true ?  
+      
+      {/* AD BANNER */}
+			{/* {adBanner === true ?  
 			<div className="row">
             <div className="col-lg-12">
               <AddBanner
@@ -121,9 +127,9 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
                 pClass="mb--30"
               />
             </div>
-          </div> : ""}
+          </div> : ""} */}
          
-          <SectionTitleOne title={ headingTitle || "Innovation & Tech"} />
+          <SectionTitleOne title={ headingTitle || "Different Kinds of Reviews."} />
           <div className="row">
             <div className="col-lg-12">
               <Tab.Container id="axilTab" defaultActiveKey={activeNav}>

@@ -9,20 +9,24 @@ import { slugify } from "../../utils";
 const filters = [
   {
     id: 1,
-    cate: "Travel",
+    cate: "Movies",
   },
   {
     id: 2,
-    cate: "Food",
+    cate: "Series",
   },
-  {
-    id: 3,
-    cate: "Design",
-  },
-  {
-    id: 4,
-    cate: "LifeStyle",
-  },
+//   {
+//     id: 3,
+//     cate: "Literature",
+//   },
+//   {
+//     id: 4,
+//     cate: "Audio",
+//   },
+//   {
+//     id: 5,
+//     cate: "Games",
+//   },
 ];
 
 const defaultActiveCat = slugify(filters[0].cate);
@@ -58,7 +62,7 @@ const PostSectionFive = ({ postData }) => {
   return (
     <div className="axil-post-grid-area axil-section-gap bg-color-grey">
       <div className="container">
-        <SectionTitleOne title="Most Popular" />
+        <SectionTitleOne title="More Horror Goodies." />
         <div className="row">
           <div className="col-lg-12">
             <Tab.Container id="axilTab" defaultActiveKey={activeNav}>

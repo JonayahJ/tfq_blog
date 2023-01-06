@@ -24,11 +24,15 @@
         "icon": "fab fa-pinterest"
     },
     "discord": {
-        "url": "https://discord.com/",
+        "url": "https://discord.gg/DYRQvCgQrp",
         "icon": "fab fa-discord"
     },
     "slack": {
         "url": "https://slack.com/",
         "icon": "fab fa-slack"
+    },
+    "tiktok": {
+        "url": "https://tiktok.com/",
+        "icon": "fab fa-tiktok"
     }
 }
