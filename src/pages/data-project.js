@@ -1,6 +1,5 @@
 import InstagramOne from "../common/components/instagram/InstagramOne";
 import BreadcrumbTwo from "../common/elements/breadcrumb/breadcrumbTwo";
-import FooterThree from "../common/elements/footer/FooterThree";
 import HeaderOne from "../common/elements/header/HeaderOne";
 import { getAllPosts } from '../../lib/api';
 import WidgetCategory from "../common/components/sidebar/WidgetCategory";
@@ -8,6 +7,7 @@ import WidgetSearch from "../common/components/sidebar/WidgetSearch";
 import WidgetPostList from "../common/components/sidebar/WidgetPostList";
 import WidgetSocialShare from "../common/components/sidebar/WidgetSocialShare";
 import HeadTitle from "../common/elements/head/HeadTitle";
+import FooterTwo from "../common/elements/footer/FooterTwo";
 
 const DataProject = ({allPosts}) => {
     return (
@@ -54,7 +54,7 @@ const DataProject = ({allPosts}) => {
             </div>
 
             <InstagramOne parentClass="bg-color-grey" />
-            <FooterThree />
+            <FooterTwo />
         </>
     );
 }

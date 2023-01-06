@@ -138,11 +138,6 @@ const Nav = ({posts}) => {
                     <a>About TFQ</a>
                 </Link>
             </li>
-            {/* <li>
-                <Link href="/lair">
-                    <a>The Lair</a>
-                </Link>
-            </li> */}
             <li>
                 <Link href="/black-horror">
                     <a>Black Horror</a>
@@ -153,32 +148,6 @@ const Nav = ({posts}) => {
                     <a>The Data Project</a>
                 </Link>
             </li>
-            <li className="menu-item-has-children">
-                <Link href="/">
-                    <a>More...</a>
-                </Link>
-                <ul className="axil-submenu">
-                    <li>
-                        <Link href="/contact">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Contact Us">Contact Us</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/privacy-policy">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Privacy Policy">Privacy Policy</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                </ul>
-            </li>
-
         </ul>
     );
 }

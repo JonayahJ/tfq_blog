@@ -7,23 +7,27 @@ import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
 import { HoverActiveClass, slugify } from "../../utils";
 
 const filters = [
-  {
-    id: 1,
-    cate: "Travel",
-  },
-  {
-    id: 2,
-    cate: "Gadget",
-  },
-  {
-    id: 3,
-    cate: "SEO",
-  },
-  {
-    id: 4,
-    cate: "Research",
-  },
-];
+	{
+	  id: 1,
+	  cate: "Movies",
+	},
+	{
+	  id: 2,
+	  cate: "Series",
+	},
+	{
+	  id: 3,
+	  cate: "Literature",
+	},
+	{
+	  id: 4,
+	  cate: "Audio",
+	},
+	{
+	  id: 5,
+	  cate: "Games",
+	},
+  ];
 
 const defaultActiveCat = slugify(filters[0].cate);
 

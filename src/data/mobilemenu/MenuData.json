@@ -14,19 +14,5 @@
     {
         "label": "The Data Project",
         "path": "/data-project"
-    },
-    {
-        "label": "More",
-        "path": "#",
-        "submenu": [
-            {
-                "sublabel": "Contact Us",
-                "subpath": "/contact"
-            },
-            {
-                "sublabel": "Privacy Policy",
-                "subpath": "/privacy-policy"
-            }
-        ]
     }
 ]

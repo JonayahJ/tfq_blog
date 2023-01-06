@@ -9,19 +9,23 @@ import { slugify } from "../../utils";
 const filters = [
   {
     id: 1,
-    cate: "Design",
+    cate: "Movies",
   },
   {
     id: 2,
-    cate: "Gadget",
+    cate: "Series",
   },
   {
     id: 3,
-    cate: "Technology",
+    cate: "Literature",
   },
   {
     id: 4,
-    cate: "Marketing",
+    cate: "Audio",
+  },
+  {
+    id: 5,
+    cate: "Games",
   },
 ];
 

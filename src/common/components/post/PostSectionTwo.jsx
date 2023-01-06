@@ -179,7 +179,7 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
                             </div>
                             {data.featureImg ? 
                             <div className="post-thumbnail">
-                              <div className="round-shape">
+                              {/* <div className="round-shape">
                                 <Image
                                     src="/images/icons/shape-01.webp"
                                     alt="Round Shape"
@@ -187,7 +187,7 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
                                     width={390}
                                     priority={true}
                                   />
-                              </div>
+                              </div> */}
                               <Link href={`/post/${data.slug}`}>
                                 <a>
                                   <Image

@@ -18,7 +18,7 @@ const FormOne = () => {
     const sendEmail = (e) => {
         e.preventDefault();
     
-        emailjs.sendForm('service_g3aufzu', 'template_p9x0n54', form.current, '9L_sRsO66U253zcxC')
+        emailjs.sendForm('service_g3aufzu', 'template_p9x0n54', form.current, '9L_sRsO66U253zcxC') // Need to update with MY details. Get into email!
           .then((result) => {
               console.log(result.text);
           }, (error) => {

@@ -1,8 +1,8 @@
-import FooterThree from "../common/elements/footer/FooterThree";
 import HeaderOne from "../common/elements/header/HeaderOne";
 import { getFileContentBySlug, getAllPosts } from "../../lib/api";
 import markdownToHtml from "../../lib/markdownToHtml";
 import HeadTitle from "../common/elements/head/HeadTitle";
+import FooterTwo from "../common/elements/footer/FooterTwo";
 
 const PrivacyPolicy = ({privacyData, allPosts}) => {
     
@@ -27,7 +27,7 @@ const PrivacyPolicy = ({privacyData, allPosts}) => {
             </div>
         </div>
 
-        <FooterThree bgColor="bg-color-black" darkLogo="/images/logo/logo-white2.webp"/>
+        <FooterTwo />
         </>
     );
 }

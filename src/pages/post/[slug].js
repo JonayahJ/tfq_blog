@@ -2,13 +2,13 @@ import markdownToHtml from '../../../lib/markdownToHtml';
 import { getPostBySlug, getAllPosts } from '../../../lib/api';
 import HeadTitle from '../../common/elements/head/HeadTitle';
 import HeaderOne from '../../common/elements/header/HeaderOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
 import PostFormatStandard from '../../common/components/post/format/PostFormatStandard';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
 import PostFormatVideo from '../../common/components/post/format/PostFormatVideo';
 import PostFormatGallery from '../../common/components/post/format/PostFormatGallery';
 import PostFormatAudio from '../../common/components/post/format/PostFormatAudio';
 import PostFormatQuote from '../../common/components/post/format/PostFormatQuote';
+import FooterTwo from '../../common/elements/footer/FooterTwo';
 
 const PostDetails = ({ post, allPosts }) => {
 	
@@ -34,7 +34,7 @@ const PostDetails = ({ post, allPosts }) => {
 			<HeadTitle pageTitle={post.title} />
 			<PostFormatHandler />
 			<InstagramOne parentClass="bg-color-extra03"/>
-			<FooterOne />
+			<FooterTwo />
 		</>
 	);
 }

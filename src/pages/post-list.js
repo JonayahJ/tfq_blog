@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import ReactPaginate from 'react-paginate';
 import InstagramOne from "../common/components/instagram/InstagramOne";
-import FooterThree from "../common/elements/footer/FooterThree";
 import HeaderOne from "../common/elements/header/HeaderOne";
 import { getAllPosts } from '../../lib/api';
 import SidebarOne from "../common/components/sidebar/SidebarOne";
 import PostLayoutTwo from "../common/components/post/layout/PostLayoutTwo";
 import { SortingByDate } from "../common/utils";
 import HeadTitle from "../common/elements/head/HeadTitle";
+import FooterTwo from '../common/elements/footer/FooterTwo';
 
 const PostListPage = ({ allPosts }) => {
 
@@ -52,7 +52,7 @@ const PostListPage = ({ allPosts }) => {
                 </div>
             </div>
             <InstagramOne parentClass="bg-color-grey" />
-            <FooterThree />
+            <FooterTwo />
         </>
     );
 }

@@ -69,7 +69,7 @@ const FooterTwo = () => {
               <div className="copyright-left">
                 <ul className="mainmenu justify-content-start">
                   <li>
-                  <Link href="/about">
+                  <Link href="/contact">
                     <a className="hover-flip-item-wrapper">
                       <span className="hover-flip-item">
                         <span data-text="Contact Us">Contact Us</span>

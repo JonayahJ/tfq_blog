@@ -17,7 +17,7 @@ const BlackHorror = ({allPosts}) => {
             <BreadcrumbTwo
                 title="Black Horror"
                 paragraph="It's more than skin deep."
-                bgImae="url('https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672980799/The%20Fright%20Queen/Tony-Todd-as-Candyman-in-Candyman_-Farewell-to-the-Flesh-1995_fjqhv5.jpg')"
+                bgImae="url('https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672980799/The%20Fright%20Queen/Black%20Horror/Tony-Todd-as-Candyman-in-Candyman_-Farewell-to-the-Flesh-1995_fjqhv5.jpg')"
             />
             <div className="axil-post-list-area axil-section-gap bg-color-white">
                 <div className="container">
@@ -33,7 +33,7 @@ const BlackHorror = ({allPosts}) => {
                                     </blockquote>
                                     <p>I think that what Professor Due said is key to understanding what separates Black Horror from the myriad other subgenres.  Black Horror is about perspective. The concept that there are main and secondary characters that happen to be Black but are not used as plot devices or tropes to move the story along, like the sacrificial negro or the wise negro, is what I consider to be Black Horror.  These films are told from the standpoint of a Black character who makes the decisions a Black person would make, and not for the sake of anyone other than themselves. These are fully fleshed-out characters who have backstories, motivations, flaws, etc.  In the interview, Professor Due also notes that Black Horror does not necessarily need to exist in opposition to whiteness.  It can just be a story where we simply exist as 3-dimensional characters.</p>
                                     {/* image */}
-                                    <img src="https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672980477/The%20Fright%20Queen/Black_Horror_FEHT_q50iib.jpg" alt="Final Exam Horror Trivia Composite Image"></img> 
+                                    <img src="https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672980477/The%20Fright%20Queen/Black%20Horror/Black_Horror_FEHT_q50iib.jpg" alt="Final Exam Horror Trivia Composite Image"></img> 
                                     <small><center>Image Credit: Final Exam Horror Trivia @FinalExamHorror | From left to right, top to bottom: Tales from the Hood, Candyman, Eve's Bayou, Get Out, Bones, Us.</center></small>
                                     <br/>
                                     <br/>
@@ -55,7 +55,7 @@ const BlackHorror = ({allPosts}) => {
                                     </p>
                                     <p>Now, these titles are in no particular order.  They are just really good movies to watch in my opinion.  There's a little bit for everyone on this list.  So queue them up on your nearest streaming device and enjoy!</p>
                                     {/* TENOR GIF */}
-                                    <img src="https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672980610/The%20Fright%20Queen/MJ_popcorn_zfzrkw.gif" alt="Michael Jackson eating popcorn at the movies in 'Thriller'" width="100%"></img> 
+                                    <img src="https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672980610/The%20Fright%20Queen/Black%20Horror/MJ_popcorn_zfzrkw.gif" alt="Michael Jackson eating popcorn at the movies in 'Thriller'" width="100%"></img> 
                                     <small><center>Image Credit: Tenor | Michael Jackson eating popcorn at the movies in "Thriller"</center></small>
                                     <br/>
                                     <br/>
