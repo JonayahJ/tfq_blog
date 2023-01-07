@@ -24,6 +24,18 @@ const filters = [
     //   id: 5,
     //   cate: "Games",
     // },
+    {
+      id: 6,
+      cate: "Horror 101",
+    },
+    // {
+    //   id: 7,
+    //   cate: "Black Horror",
+    // },
+    {
+      id: 8,
+      cate: "Deep Dive",
+    },
   ];
 
 const defaultActiveCat = slugify(filters[0].cate);

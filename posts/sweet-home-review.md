@@ -1,7 +1,8 @@
 ---
-postFormat: 'standard'
+postFormat: 'video'
 title: 'Sweet Home Review'
 featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672995628/The%20Fright%20Queen/Reviews/Series/Sweet%20Home/sweet-home-review-netflix_lawew8.jpg'
+videoLink: 'https://www.youtube.com/embed/7rI56NmD33Y'
 date: 'Feb 21 2021'
 cate: 'Series'
 pCate: 'Series'
@@ -34,13 +35,13 @@ tags:
 
 ---
 
-![Post Images](/images/icons/4-skull-solid.png)
+![Post Images](/images/icons/4-skull-solid-B.png)
 
 ## Well, hello there!
 
 Welcome ghouls and gals to my first official review as The Fright Queen. Writing a horror blog has been something I've been mulling over for the past few years now. And welp, there's no time like a global pandemic to make you reevaluate the things that are holding you back.  With the imaginary obstacles (self-doubt, imposter syndrome, the anticipation of uber-religious family members calling me a demon seed again, etc) behind me, here I am!  For my inaugural review and all subsequent ones really, I'm going to try to strike a balance between giving you my honest opinion without ruining the entire show for you.  But I will always stress that you should watch, read, play, or experience something for yourself.  I can only tell you if I liked it, not if you will.
 
-If you're like me, you want to know what you're getting yourself into before you watch a show in case something doesn't sit well with your stomach.  If you're like me, [Six Degrees of Kevin Bacon](http://email.thefrightqueen.com/c/eJwljsFygyAURb9GdnEeICoLFtYkmy77AQ7CU4gKqSFt8_clycyduXPv4syxSoiptcQrBoyCoBw4YxxKWp7qvhG9rNmxr7qOQVFBcjjtfnbp-44YShM34lSluUVKa0AYpeCNaPmYQdq2Rkg5GrIp1oAEyilZlUvpeit4V7BzTob8-sVf0Xpdxn3O13Pn-vJ_wxHnHfE2xGn4xB8fhg9tYiC7usSgH9q9jHxYnF7NI759khrv63LATfv1H2JKRPM) and IMDb are two of your favorite friends.  If you're like me, you're interested in the story underneath the story.  But let's be honest, if you're like me, you'll want a TLDR section at the bottom.  And in that case, you'll be happily surprised.
+If you're like me, you want to know what you're getting yourself into before you watch a show in case something doesn't sit well with your stomach.  If you're like me, [Six Degrees of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#:~:text=Six%20Degrees%20of%20Kevin%20Bacon%20or%20Bacon's%20Law%20is%20a,ultimately%20leads%20to%20prolific%20American) and IMDb are two of your favorite friends.  If you're like me, you're interested in the story underneath the story.  But let's be honest, if you're like me, you'll want a TLDR section at the bottom.  And in that case, you'll be happily surprised.
 
 Now that we have that out of the way, go grab some tea, snuggle into a comfy chair, and let's begin.
 
@@ -50,14 +51,11 @@ Sweet Home is a South Korean post-apocalyptic TV show based off of the 2017 webt
 
 *East Asian names: The family name is first; the given name is second.  This will be standard for all future posts with such naming conventions.
 
-Warning, this title includes: reading subtitles (unless you watch the dubbed version, for which I will absolutely judge you–hey Dad 👋🏾),  societal injustice, corruption, betrayal, gardening accidents, infections, quarantine, no internet, monsters, broken bones, suicide, attempted homicide, homicide, torture, child abuse, child death, adult death, car accidents, body transformation, copious amounts of blood, nosebleeds, attempted necrophilia, irony, bad luck, sacrifice, fire, explosions, burn scars, air canons, swords, guns, spears, crossbows, Molotov cocktails, justice, redemption, martial law, democracy, domestic violence, toupees that inevitably fall off, wine, soju, alcoholism, capitalism, and random twists.
-
-<!-- VIDEO -->
-<iframe width="820" height="464" src="https://www.youtube.com/embed/7rI56NmD33Y" title="Sweet Home | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Warning, this title includes**: reading subtitles (unless you watch the dubbed version, for which I will absolutely judge you–hey Dad 👋🏾),  societal injustice, corruption, betrayal, gardening accidents, infections, quarantine, no internet, monsters, broken bones, suicide, attempted homicide, homicide, torture, child abuse, child death, adult death, car accidents, body transformation, copious amounts of blood, nosebleeds, attempted necrophilia, irony, bad luck, sacrifice, fire, explosions, burn scars, air canons, swords, guns, spears, crossbows, Molotov cocktails, justice, redemption, martial law, democracy, domestic violence, toupees that inevitably fall off, wine, soju, alcoholism, capitalism, and random twists.
 
 ## The Players
 
-If you're a fan of K-dramas like I am, you will undoubtedly recognize a majority of the cast.  It might be the reason why you decide to watch, like it was for me.  In the interest of time, here are the top-billed cast.  The lead protagonist and new resident of the Green Home apartment building, Cha Hyun-Su, is played by actor [Song Kang](http://email.thefrightqueen.com/c/eJwljTsSgjAUAE9DOpmXl58UKRjUxtIDOM8QSQSCYhyH24s6s802u61V6rptWbQIyEFxAQJRQMnLvW6MaiqNu0bWNUIhIQd_nWMX8uPlfSrdNLJgibjRmqSWxpO5OKmEQ-dAtd6AqRQbLRqogAvOBhtyvj8LURd4WKFnpPSOffy2Vj9NqTsfKXVstrcp0ULht42pDzS4ZfpPs728hn7jR4rDB8B-Oyc).  You might have seen him in shows like Love Alarm and Navillera.  Next up, we have the firefighter with a tragic story, Seo Yi-Kyung played by [Lee Si-Young](http://email.thefrightqueen.com/c/eJwljTkOwjAQAF8Td0TrdTZH4SIKUNFRUaEltrFJ4nA4QvyeS5pmmhmjiVxtRNAIKIGkAoWoIJf5puwq6poS113RtghZAclbdw9nn26LtTHv50l43bMxgO5UkzRU9Q2hc2RAOa4dldyISWMFDUglxah9StdHptoMtx_4ETg-wxC-rY_vrD3uw-owL_Es7voyR36x_51DHDyP_Wv-f5M-LeOwshOH8Q2zKDy6) (my main reason for watching).  You might have seen her in No Mercy and Lookout.  The impossible to kill (maybe) Pyeon Sang-Wook is played by [Lee Jin-Wook](http://email.thefrightqueen.com/c/eJwljT0PgjAUAH8N3SSv71mBoQNBHYy7o3mFYivQqpQY_71fyS233HVaqb7shNcIKEFJAkIkyGW-2zSFaqoNbpt1XSNka0jO9g9_cem-WBvyNk7CaSisJKaewZi2NyWZVlUdE3CJHRQkJo0FVCBJilG7lG5zRnWG-w88ew5PP_hv6-NHa88HH1anGAfx0NcY-MXud_ZhcDy2r_j_Jm2WcVjZif34BqI-PI0).  You might have seen him in Goodbye Mr. Black and The Time That I Loved You.  The stoic and book smart leader Lee Eun-Hyeok is played by [Lee Do-Hyun](http://email.thefrightqueen.com/c/eJwljkFugzAQAF9j34LWa2yzBx8QNOqhf4icsMQOYJrEqOL3TRtpLnMZzeCNGZtBJo-ACozSoBE1VKr6sJ0zHVnsu7ptEUQNJfL4SNdY7htzri7rIqOvHZ0tqJqJHOBonUHdMA2GnQartFw8OiBQWsnZx1K-n0K3Ao8vwjOF_JOm9Nd6-RfzqV8Pn_uWTwIbRWQEknz425rDHuL_Q8pTDPNlX98HxZ-3eTrwEtL8CwAZPPY), whom you might have seen in Hotel del Luna and 18 Again.  And finally, the realistic musician Yoon Ji-Su is played by [Park Gyu-Young](http://email.thefrightqueen.com/c/eJwljb0OgyAYAJ9GNg3fhygMDMb-rF07NaBYqIqtYhrfvrZNbrnlrlWcd6IlXiFFoBwYZYiMZpAdi7rktSzwUOdVhTTJaXS2m_3dxddqbciaaSROGS6MLZBxAxIgb0EIkRfSoC5Lzqwko8KSSgoMyKBcjM8lYVWCpx29eB3evvff1u4XPfe387am12kNdzKrxxT0pt3v7UPv9NBs0_8clVmHPrWj9sMHoSo8Yw).  You might have seen her in It's Okay to Not Be Okay and Wretches.
+If you're a fan of K-dramas like I am, you will undoubtedly recognize a majority of the cast.  It might be the reason why you decide to watch, like it was for me.  In the interest of time, here are the top-billed cast.  The lead protagonist and new resident of the Green Home apartment building, Cha Hyun-Su, is played by actor [Song Kang](https://asianwiki.com/Song_Kang).  You might have seen him in shows like Love Alarm and Navillera.  Next up, we have the firefighter with a tragic story, Seo Yi-Kyung played by [Lee Si-Young](https://asianwiki.com/Lee_Si-Young) (my main reason for watching).  You might have seen her in No Mercy and Lookout.  The impossible to kill (maybe) Pyeon Sang-Wook is played by [Lee Jin-Wook](https://asianwiki.com/Lee_Jin-Uk).  You might have seen him in Goodbye Mr. Black and The Time That I Loved You.  The stoic and book smart leader Lee Eun-Hyeok is played by [Lee Do-Hyun](https://asianwiki.com/Lee_Do-Hyun_(1995)), whom you might have seen in Hotel del Luna and 18 Again.  And finally, the realistic musician Yoon Ji-Su is played by [Park Gyu-Young](https://asianwiki.com/Park_Gyu-Young).  You might have seen her in It's Okay to Not Be Okay and Wretches.
 
 Lucky for us, this stellar cast all came to slay.  Their performances were all top-notch and the casting was superb.  If you get the chance, definitely check out their other works.  There are so many more cast members that you've likely seen, so definitely give the full cast list a look over when you can.
 
@@ -76,7 +74,7 @@ Like several post-apocalyptic shows before it, Sweet Home weaves together the ov
 
 ## The Good, The Bad, and The Ugly
 
-Here's what worked, what didn't work, and what made no sense.
+**Here's what worked, what didn't work, and what made no sense.**
 
 #### What Worked
 
@@ -114,7 +112,7 @@ I'm giving Sweet Home **4 out of 5** skulls. Here's why:
 
 - The end didn't stick the landing and left way too many unanswered questions/unresolved items in an effort to set us up for a second season that may or may not get funded. 
 
-***NOTE: since the writing of this blog post, Sweet Home has been picked up for a second season!***
+***NOTE: since the writing of this blog post, Sweet Home has been picked up for two additional seasons on Netflix!***
 
 I think the show is worth watching.  It's entertaining, relatively short, and a good take on what could happen in post-apocalyptic Seoul if the internet went out and a tentacle monster kept you holed up inside an apartment building with your neighbors.  And you thought fighting over toilet paper was bad.
 
@@ -127,4 +125,4 @@ Remember, at the end of the day, these are my opinions.  I'd like to know if you
 
 ___
 
-Sources: [Asian Wiki](http://asianwiki.com/), [Cute interview with the cast](http://email.thefrightqueen.com/c/eJwljssOgjAUBb-m3Ulub1uoiy4I6tb4CW0pFnlUsUj4e0GTSU4yi5OptZSNqmmrEZCBZBw4IoeMZee8KmR1zPFUibJEIAJS8M3U3kN6zd6PmYsDDdoKVYMywhrjReML9EzZ3DKF28gc6aCxgCMwzmivQ0rPN-ElwcvGsizZGuc0W7-_7cYkFwi_fAg_hejU1Y7uNt3ppB9xNKsJv4x27ILp3Rr_EUnbue8OfjBt_wWkwUCm)
+Sources: [Asian Wiki](http://asianwiki.com/)

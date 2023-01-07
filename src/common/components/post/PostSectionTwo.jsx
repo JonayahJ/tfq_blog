@@ -20,16 +20,8 @@ const filters = [
   },
   {
     id: 3,
-    cate: "Deep Dives",
+    cate: "Deep Dive",
   },
-  // {
-  //   id: 4,
-  //   cate: "Audio",
-  // },
-  // {
-  //   id: 5,
-  //   cate: "Games",
-  // }
 ];
 const defaultActiveCat = slugify(filters[0].cate);
 
