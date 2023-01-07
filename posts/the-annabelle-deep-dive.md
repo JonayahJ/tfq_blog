@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 sliderBanner: true
-title: 'The Annabelle Deep Dive'
+title: 'A Hot Take: The Annabelle Deep Dive'
 featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673039370/The%20Fright%20Queen/Reviews/Movies/The%20Annabelle%20Deep%20Dive/Annabelle_theBlogThatChickWrote_odvevm.jpg'
 videoLink: 'https://www.youtube.com/embed/paFgQNPGlsg'
 featured: false
@@ -41,7 +41,7 @@ tags:
 
 ---
 
-![Post Images](/images/icons/1-skull-solid-B.png)
+![Skull Rating](/images/icons/1-skull-solid-B.png)
 
 ## Steaming hot pile of trash!
 

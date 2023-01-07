@@ -1,19 +1,19 @@
 ---
-postFormat: 'standard'
-title: 'Apple reimagines the iPhone experience with iOS 14'
-featureImg: '/images/posts/thumbnail-05.webp'
+postFormat: 'video'
+title: 'Vicious Fun Review'
+featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673072996/The%20Fright%20Queen/Reviews/Movies/Vicious%20Fun%20Review/Vicious-Fun-Banner_rdjvvj.jpg'
+videoLink: 'https://www.youtube.com/embed/1qVHB4y3pYM'
 featured: true
-slidePost: false
-date: 'Feb 10 2022'
-pCate: 'Tech Blog'
-cate: 'Design'
-cate_img: '/images/posts/category/design.webp'
+date: 'Sep 26 2021'
+pCate: 'Movies'
+cate: 'Movies'
+cate_img: '/images/posts/category/technology.webp'
 post_views: '300K Views'
-read_time: '3 min read'
-author_name: 'Jone Doe'
-author_img: '/images/posts/author/author-b4.webp'
-author_designation: 'Sr. UX Designer'
-author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
+read_time: '5 min read'
+author_name: 'The Fright Queen'
+author_img: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1620600903/The%20Fright%20Queen/TFQbanner_mpnkei.png'
+author_designation: 'Your Friendly Neighborhood Horror Blogger'
+author_bio: 'Coming soon...'
 author_social:
     -
         icon: fab fa-facebook-f
@@ -28,12 +28,12 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - SEO
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Software
+    - Horror Comedy
+    - Hack 'Em Slasher
+    - Reviews
+    - Movies
+    - Period Piece
+    - 80s
 
 ---
 
@@ -75,5 +75,7 @@ Apple today named eight app and game developers receiving an Apple Design Award,
 More than 250 developers have been recognized with Apple Design Awards over the past 20 years. The recognition has proven to be an accelerant for developers who are pioneering innovative designs within their individual apps and influencing entire categories. Previous winners such as Pixelmator, djay, Complete Anatomy, HomeCourt, “Florence,” and “Crossy Road” have set the standard in areas such as storytelling, interface design, and use of Apple tools and technologies.
 
 For more information on the apps and games, visit the [App Store](#).
+
+
 
 

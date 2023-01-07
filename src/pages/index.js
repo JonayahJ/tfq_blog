@@ -24,12 +24,12 @@ const HomeDefault = ({allPosts}) => {
       <HeaderOne postData={allPosts}/> {/* Main header: navigation */}
       <SliderOne postData={allPosts} /> {/* Main header: featured blog posts */}
       <PostSectionOne postData={allPosts}/> {/* Recent Articles */}
-      <PostSectionTwo postData={allPosts} adBanner={true} /> {/* Different Kinds of Reviews */}
-      <CategoryList cateData={allPosts}/>
-      {/* <PostSectionSix postData={allPosts} /> Most Popular 1 */}
+      <PostSectionTwo postData={allPosts} adBanner={true} /> 
+      {/* <PostSectionSix postData={allPosts} /> Most Popular */}
+      <CategoryList cateData={allPosts}/> {/* Trending Topics */}
+      <PostSectionFive postData={allPosts}/> {/* More Horror Goodies */}
       <SocialOne /> {/* Social links */}
-      {/* <PostSectionFive postData={allPosts}/>  */}
-      <PostSectionFour postData={allPosts} adBanner={true} />
+      <PostSectionFour postData={allPosts} adBanner={true} /> {/* Most Recent List */}
       {/* <PostSectionThree postData={videoPost} heading="Featured Video"/> */}
       <InstagramOne parentClass="bg-color-grey"/> {/* IG links */}
       <FooterTwo /> {/* Simplest Footer */}
