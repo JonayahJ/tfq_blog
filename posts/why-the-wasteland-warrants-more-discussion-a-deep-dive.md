@@ -7,7 +7,7 @@ slidePost: false
 date: 'Feb 20 2022'
 pCate: 'Deep Dive'
 cate: 'Deep Dive'
-cate_img: '/images/posts/category/design.webp'
+cate_img: '/images/posts/category/deepDive.png'
 post_views: '300K Views'
 read_time: '18 min read'
 author_name: 'The Fright Queen'
@@ -43,17 +43,21 @@ tags:
 
 ## It's Still Just Meh.
 
-Okay, so before I get started, my feelings about this film are best described as "meh." I liked the plot, but the execution didn't draw me in.  It was a slow burn that barely delivered, but I still think it's worth discussing. I thought they had a lot of important topics to discuss through the medium of film that got lost somewhere in the execution. However, I still can't give it more than 3 out of 5 coffins. Before I proceed, make sure you have either watched the movie and/or have read about my overall take in my review of the movie.  There will be spoilers and I'm going to assume you have a basic knowledge of the film.
+Okay, so before I get started, my feelings about this film are best described as "meh." I liked the plot, but the execution didn't draw me in.  It was a slow burn that barely delivered, but I still think it's worth discussing. I thought they had a lot of important topics to discuss through the medium of film that got lost somewhere in the execution. However, I still can't give it more than 3 out of 5 skulls. Before I proceed, make sure you have either watched the movie and/or have read about my overall take in my review of the movie.  There will be spoilers and I'm going to assume you have a basic knowledge of the film.
 
 If you read my review, then you know the three main aspects of the film that I didn't particularly like:
 
+##### 1. Too Much Unsaid
 I felt like the writers and/or director left too much unsaid; they told us about the world instead of showing us. It was left up to the audience to figure out what was real and what was not, which isn't usually a problem, it just didn't work here. You can tell because IMDb's weighted average gave it a 4.6/10, which is in line with my feelings as well... though not quite.  Yes, a 6/10 (my score of 3/5) is higher than average, but it's still a failing grade.
 
+##### 2. Needed a Better Story
 Watching the film for the first time, I sat there coming up with ways to make the movie more interesting and NOT paying attention.  That's never a good sign.  So not only am I coming up with crazy theories, but I'm also coming up with better story plots?  
 
+##### 3. Boring, Slow Movie
 I was bored the first time I watched it. The second time, I had slightly more appreciation. But it shouldn't take me watching a movie twice for me to get what they were trying to say.
 
-In this deep dive, I'm only going to discuss my theories and proof to back up those hypotheses. My interpretations could be wrong, but that's why we should talk a bit more about this movie before throwing the baby out with the bathwater.
+#### However, this film is more than its plot. It's social commentary.
+In this deep dive, I'm only going to discuss my theories and proof to back up the following hypotheses. My interpretations could be wrong, but that's why we should talk a bit more about this movie before throwing the baby out with the bathwater.
 
 Here is a list of my best theories, in no particular order:
 
@@ -63,7 +67,7 @@ Here is a list of my best theories, in no particular order:
 - [Depression is isolating and all-consuming.](#depression-is-isolating-and-all-consuming)
 - [This was Diego's coming-of-age story.](#this-was-diegos-coming-of-age-story)
 
-Before we get underway, if you or anyone you know is battling depression or is thinking about hurting themselves, please call the **National Suicide Prevention Hotline at 1 (800) 273-8255. Your life is important and so are you.**
+![National Suicide Prevention Hotline Banner](/images/posts/NSPHotline.png)
 
 Now let's begin!  
 

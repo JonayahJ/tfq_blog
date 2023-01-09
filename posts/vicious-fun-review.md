@@ -59,7 +59,7 @@ Next up, we have Zachary the government agent, played by David Koechner.  With a
 
 Next, Sean Baek plays Hideo the cannibal.  Baek is also another Canadian actor whom you might recognize from sci-fi and crime shows like Blood and Water, Utopia Falls, Killjoys, The Expanse, and The Art of More.  Baek is also another voice actor for AAA video games like Deus Ex and Far Cry 2.  Next up is Fritz the Clown played by British actor Julian Richings.  Richings has a long resume starting in the late 80s that makes him a very recognizable face.  You probably recognize him from movies and shows like Man of Steel (2013), X-Men: The Last Stand, Channel Zero, Doom Patrol, and Supernatural.  And last but not least is Mike the typical 80s slasher, played by retired Canadian professional wrestler turned actor Robert Maillet.  He competed in Canada, the US, Japan, and South Korea as Goliath El Gigante and later as Kurrgan, and stands at a whopping 6'10". After his wrestling career ended, he pursued acting in movies like Sherlock Holmes (2009), Pacific Rim, 300, and The Mortal Instruments.
 
-![Vicious Fun Cast Members](https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673124015/The%20Fright%20Queen/Reviews/Movies/Vicious%20Fun%20Review/CastViciousFun_p5owzd.png)
+![Vicious Fun Cast Members](https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673139887/The%20Fright%20Queen/Reviews/Movies/Vicious%20Fun%20Review/CastViciousFun_pwg1c6.png)
 
 ## The Story
 

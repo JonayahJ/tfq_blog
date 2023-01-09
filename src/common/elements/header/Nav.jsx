@@ -28,10 +28,10 @@ const filters = [
       id: 6,
       cate: "Horror 101",
     },
-    // {
-    //   id: 7,
-    //   cate: "Black Horror",
-    // },
+    {
+      id: 7,
+      cate: "Black Horror",
+    },
     {
       id: 8,
       cate: "Deep Dive",

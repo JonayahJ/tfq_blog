@@ -7,7 +7,7 @@ slidePost: true
 date: 'Feb 14 2021'
 pCate: 'Horror 101'
 cate: 'Horror 101'
-cate_img: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672983387/The%20Fright%20Queen/Categories/CreatureFromTheBlackLagoon_csmtpn.jpg'
+cate_img: '/images/posts/category/horror101.png'
 post_views: '200K Views'
 read_time: '7 min read'
 author_name: 'The Fright Queen'

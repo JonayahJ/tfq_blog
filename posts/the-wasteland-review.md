@@ -53,9 +53,11 @@ So if you like films that make you question reality and your very sanity, then t
 
 El Páramo or The Wasteland is a 2021 psychological horror/thriller brought to us from Spain by way of Netflix. It is set in the 19th century after consecutive wars forced its battle-weary population into isolation to get away from violence and death. This 93-minute movie feels more like 120 minutes of a mother's slow descent into depression and suicidal ideation and a son forced to watch. Dealing with heavy subject matter, this movie acts as an allegory for our experiences dealing with mental health in the pandemic and is a twisted coming-of-age tale of a 10-year-old boy who has to conquer his own fear and that of his mother.
 
-Before you watch or even continue reading, this title includes: mental health issues, suicide, depression, child abuse, food insecurity, rotting carcasses and food, death, graphic wounds, war, isolation, knives, axes, guns, ammunition, ghoulish entities, manipulation, coercion, bullying, weird effigies, stereotypical clotheslines, and more.
+This title includes: mental health issues, suicide, depression, child abuse, food insecurity, rotting carcasses and food, death, graphic wounds, war, isolation, knives, axes, guns, ammunition, ghoulish entities, manipulation, coercion, bullying, weird effigies, stereotypical clotheslines, and more.
 
-A serious note to my readers, if you or anyone you know is battling depression or is thinking about hurting themselves, please call the **National Suicide Prevention Hotline at +1 (800) 273-8255. Your life is important and so are you.**
+![National Suicide Prevention Hotline Banner](/images/posts/NSPHotline.png)
+
+Now, let's begin!
 
 ## The Players
 

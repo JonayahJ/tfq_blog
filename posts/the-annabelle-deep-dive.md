@@ -9,7 +9,7 @@ slidePost: true
 date: 'Sep 13 2021'
 pCate: 'Deep Dive'
 cate: 'Deep Dive'
-cate_img: '/images/posts/category/design.webp'
+cate_img: '/images/posts/category/deepDive.png'
 post_views: '300K Views'
 read_time: '19 min read'
 author_name: 'The Fright Queen'
@@ -171,6 +171,12 @@ Finally, my review–I'm giving Annabelle **1 out of 5** skulls! Here's why:
 
 After this long-winded deep dive into the travesty that was Annabelle, all I can say is this: the overall plot was not the issue. I took issue with how the writers solved the main problem of the story and why a woman who needed therapy and support ended up dying. The movie felt like a cop out and an insult at the same time. I was drawn to Evelyn but could not identify at all with her or her choices. She existed only to solve a problem. Another tragedy is that the movie had real potential that was squandered by cheap jump scares, poor decision-making (which, yes, is not exclusive to this film), and a money grab looking to capitalize on the success of Annabelle's predecessor, The Conjuring (which I did like by the way).
 
+## That Score Tho...
+My review rubric standardizes my score and gives movies, games, literature, and more a fair shot at getting a decent score. Here's how this title stacks up. ***Note: I round to the nearest integer.***
+
+![Skull Rating Overview](https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673126413/The%20Fright%20Queen/Ratings/Rating%20Overview%20Tables/RatingOverview_1-4-1-4-1-2_zqk0oz.png)
+
+All things considered, I could have given this a rating of 2 skulls as stipulated by my rubric.  However, they turned Evelyn into a Sacrificial Negro of this highest order.  **And for that, minus 1 skull!**  
 
 ![Image Credit: The Blog That Chick Wrote | Annabelle looking very kickable](https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673039370/The%20Fright%20Queen/Reviews/Movies/The%20Annabelle%20Deep%20Dive/Annabelle_theBlogThatChickWrote_odvevm.jpg)
 *Image Credit: The Blog That Chick Wrote | Annabelle looking very kickable*

@@ -6,7 +6,7 @@ slidePost: true
 date: 'Feb 30 2022'
 pCate: 'Horror 101'
 cate: 'Horror 101'
-cate_img: '/images/posts/category/design.webp'
+cate_img: '/images/posts/category/horror101.png'
 post_views: '200K Views'
 read_time: '3 min read'
 author_name: 'Rose Mary'

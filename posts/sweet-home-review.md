@@ -53,6 +53,10 @@ Sweet Home is a South Korean post-apocalyptic TV show based off of the 2017 webt
 
 **Warning, this title includes**: reading subtitles (unless you watch the dubbed version, for which I will absolutely judge you–hey Dad 👋🏾),  societal injustice, corruption, betrayal, gardening accidents, infections, quarantine, no internet, monsters, broken bones, suicide, attempted homicide, homicide, torture, child abuse, child death, adult death, car accidents, body transformation, copious amounts of blood, nosebleeds, attempted necrophilia, irony, bad luck, sacrifice, fire, explosions, burn scars, air canons, swords, guns, spears, crossbows, Molotov cocktails, justice, redemption, martial law, democracy, domestic violence, toupees that inevitably fall off, wine, soju, alcoholism, capitalism, and random twists.
 
+![National Suicide Prevention Hotline Banner](/images/posts/NSPHotline.png)
+
+Now, let's begin!
+
 ## The Players
 
 If you're a fan of K-dramas like I am, you will undoubtedly recognize a majority of the cast.  It might be the reason why you decide to watch, like it was for me.  In the interest of time, here are the top-billed cast.  The lead protagonist and new resident of the Green Home apartment building, Cha Hyun-Su, is played by actor [Song Kang](https://asianwiki.com/Song_Kang).  You might have seen him in shows like Love Alarm and Navillera.  Next up, we have the firefighter with a tragic story, Seo Yi-Kyung played by [Lee Si-Young](https://asianwiki.com/Lee_Si-Young) (my main reason for watching).  You might have seen her in No Mercy and Lookout.  The impossible to kill (maybe) Pyeon Sang-Wook is played by [Lee Jin-Wook](https://asianwiki.com/Lee_Jin-Uk).  You might have seen him in Goodbye Mr. Black and The Time That I Loved You.  The stoic and book smart leader Lee Eun-Hyeok is played by [Lee Do-Hyun](https://asianwiki.com/Lee_Do-Hyun_(1995)), whom you might have seen in Hotel del Luna and 18 Again.  And finally, the realistic musician Yoon Ji-Su is played by [Park Gyu-Young](https://asianwiki.com/Park_Gyu-Young).  You might have seen her in It's Okay to Not Be Okay and Wretches.
