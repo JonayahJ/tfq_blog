@@ -7,7 +7,7 @@ featured: true
 date: 'Sep 26 2021'
 pCate: 'Movies'
 cate: 'Movies'
-cate_img: '/images/posts/category/technology.webp'
+cate_img: '/images/posts/category/movies.png'
 post_views: '300K Views'
 read_time: '5 min read'
 author_name: 'The Fright Queen'

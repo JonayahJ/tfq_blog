@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import FooterOne from "../common/elements/footer/FooterOne";
 import HeaderOne from "../common/elements/header/HeaderOne";
 import { getAllPosts } from '../../lib/api';
 import HeadTitle from "../common/elements/head/HeadTitle";
+import FooterTwo from '../common/elements/footer/FooterTwo';
 
 const Error404 = ({allPosts}) => {
     return (
@@ -38,7 +38,7 @@ const Error404 = ({allPosts}) => {
                 </div>
             </div>
 
-            <FooterOne />
+            <FooterTwo />
         </>
     );
 }

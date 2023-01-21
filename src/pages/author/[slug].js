@@ -2,12 +2,12 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllPosts } from '../../../lib/api';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
 import HeaderOne from '../../common/elements/header/HeaderOne';
 import PostLayoutTwo from '../../common/components/post/layout/PostLayoutTwo';
 import SidebarOne from "../../common/components/sidebar/SidebarOne";
 import { slugify } from '../../common/utils';
 import HeadTitle from "../../common/elements/head/HeadTitle";
+import FooterTwo from "../../common/elements/footer/FooterTwo";
 
 
 const AuthorArchive = ({ authorData, allPosts }) => {
@@ -74,7 +74,7 @@ const AuthorArchive = ({ authorData, allPosts }) => {
                 </div>
             </div>
             <InstagramOne parentClass="bg-color-grey" />
-            <FooterOne />
+            <FooterTwo />
         </>
     );
 }

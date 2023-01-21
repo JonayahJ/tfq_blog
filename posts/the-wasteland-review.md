@@ -9,7 +9,7 @@ slidePost: false
 date: 'Feb 20 2022'
 pCate: 'Movies'
 cate: 'Movies'
-cate_img: '/images/posts/category/seo.webp'
+cate_img: '/images/posts/category/movies.png'
 post_views: '200K Views'
 read_time: '11 min read'
 author_name: 'The Fright Queen'
@@ -35,7 +35,6 @@ tags:
     - Period Piece
     - Child Actor
     - Spain
-    - España
     - Reviews
     - Subtitles
 

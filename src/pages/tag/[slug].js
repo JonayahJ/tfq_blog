@@ -1,12 +1,12 @@
 import { useRouter } from 'next/router'
 import { getAllPosts } from '../../../lib/api';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
 import HeaderOne from '../../common/elements/header/HeaderOne';
 import PostLayoutTwo from '../../common/components/post/layout/PostLayoutTwo';
 import SidebarOne from "../../common/components/sidebar/SidebarOne";
 import BreadcrumbOne from '../../common/elements/breadcrumb/breadcrumbOne';
 import { slugify } from '../../common/utils';
+import FooterTwo from '../../common/elements/footer/FooterTwo';
 
 
 const TagsArchive = ({ tagsData, allPosts }) => {
@@ -32,7 +32,7 @@ const TagsArchive = ({ tagsData, allPosts }) => {
                 </div>
             </div>
             <InstagramOne parentClass="bg-color-grey" />
-            <FooterOne />
+            <FooterTwo />
         </>
     );
 }

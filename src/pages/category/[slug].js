@@ -2,11 +2,11 @@ import { getAllPosts } from '../../../lib/api';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
 import PostLayoutTwo from '../../common/components/post/layout/PostLayoutTwo';
 import BreadcrumbOne from '../../common/elements/breadcrumb/breadcrumbOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
 import HeadTitle from "../../common/elements/head/HeadTitle";
 import HeaderOne from '../../common/elements/header/HeaderOne';
 import SidebarOne from "../../common/components/sidebar/SidebarOne";
 import { slugify } from '../../common/utils';
+import FooterTwo from '../../common/elements/footer/FooterTwo';
 
 
 const PostCategory = ({ postData, allPosts }) => {
@@ -29,7 +29,7 @@ const PostCategory = ({ postData, allPosts }) => {
 			</div>
 		</div>
 		<InstagramOne parentClass="bg-color-grey" />
-		<FooterOne />
+		<FooterTwo />
 
 		</>
 	);
