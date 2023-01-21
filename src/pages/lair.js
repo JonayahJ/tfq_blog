@@ -16,7 +16,7 @@ const TheLair = ({allPosts}) => {
             <HeaderOne postData={allPosts} />
             <BreadcrumbTwo
                 title="The Lair of the Fright Queen"
-                bgImae="url('images/bg/bg-image-1.webp')"
+                bgImae="url('https://res.cloudinary.com/think-halcyon-llc/image/upload/v1620607988/The%20Fright%20Queen/TFQ_YT-Banner-2_fviwp4.png')"
             />
             <div className="axil-post-list-area axil-section-gap bg-color-white">
                 <div className="container">
@@ -26,7 +26,7 @@ const TheLair = ({allPosts}) => {
                             <div className="axil-about-us">
                                 <div className="inner">
                                     <h3>Welcome to The Lair of the Fright Queen!</h3>
-                                    <p>Hi there ghouls and gals, and everything in between! I'm so excited you’ve decided to think about joining (or were curious about what the Lair is). If you're an avid horror fan or enthusiast, then this is the place for you. We do everything from discussing movies to comic books, testing cute little bots that I create in my spare time, playing tabletop games like Vampire: the Masquerade, screening movies together, and more!  If that sounds like something you're interested in, join our fledgling Discord server and come watch movies with us on Scener!</p>
+                                    <p>Hi there ghouls and gals, and everything in between! I'm so excited you’ve decided to think about joining (or were curious about what the Lair is). If you're an avid horror fan or enthusiast, then this is the place for you. We do everything from discussing movies to comic books, testing cute little bots that I create in my spare time, playing tabletop games like Vampire: the Masquerade, screening movies together, and more!  If that sounds like something you're interested in, join our fledgling <a href="https://discord.gg/DYRQvCgQrp" target="_blank">Discord server</a> and come watch movies with us on <a href="https://scener.com/thefrightqueen" target="_blank">Scener</a>!</p>
                                     <p>Hope to see you there!</p>
                                 </div>
                             </div>

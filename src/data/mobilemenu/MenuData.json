@@ -4,10 +4,6 @@
         "path": "/"
     },
     {
-        "label": "About",
-        "path": "/about" 
-    },
-    {
         "label": "Archive",
         "path": "/post-list" 
     },

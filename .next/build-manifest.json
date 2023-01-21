@@ -30,15 +30,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/post-list": [
+    "/category/[slug]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/post-list.js"
+      "static/chunks/pages/category/[slug].js"
     ],
-    "/tag/[slug]": [
+    "/lair": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/tag/[slug].js"
+      "static/chunks/pages/lair.js"
     ]
   },
   "ampFirstPages": []

@@ -1,18 +1,18 @@
 ---
 postFormat: 'standard'
-title: 'iPadOS 14 introduces new designed specifically for iPad'
-featureImg: '/images/posts/thumbnail-03.webp'
+title: 'What Makes Something "Scary"?'
+featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1672983387/The%20Fright%20Queen/Categories/CreatureFromTheBlackLagoon_csmtpn.jpg'
 slidePost: true
-date: 'Jul 24 2022'
-pCate: 'Black Horror'
-cate: 'Black Horror'
-cate_img: '/images/posts/category/blackHorror.png'
+date: 'Feb 30 2022'
+pCate: 'Horror 101'
+cate: 'Horror 101'
+cate_img: '/images/posts/category/horror101.png'
 post_views: '200K Views'
 read_time: '3 min read'
-author_name: 'Ismat Jahan'
-author_img: '/images/posts/author/author-b6.webp'
-author_designation: 'Sr. UX Designer'
-author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
+author_name: 'The Fright Queen'
+author_img: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1620600903/The%20Fright%20Queen/TFQbanner_mpnkei.png'
+author_designation: 'Your Friendly Neighborhood Horror Blogger'
+author_bio: 'Coming soon...'
 author_social:
     -
         icon: fab fa-facebook-f
@@ -27,12 +27,11 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - Graphics
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Software
+    - Horror 101
+    - Terms
+    - Uncanny Valley
+    - Fear of the Unknown
+    - Phobias
 
 ---
 

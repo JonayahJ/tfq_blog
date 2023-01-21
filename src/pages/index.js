@@ -24,7 +24,7 @@ const HomeDefault = ({allPosts}) => {
       <HeaderOne postData={allPosts}/> {/* Main header: navigation */}
       <SliderOne postData={allPosts} /> {/* Main header: featured blog posts */}
       <PostSectionOne postData={allPosts}/> {/* Recent Articles */}
-      <PostSectionTwo postData={allPosts} adBanner={true} /> 
+      <PostSectionTwo postData={allPosts} adBanner={true} /> {/* Different Kinds of Reviews */}
       {/* <PostSectionSix postData={allPosts} /> Most Popular */}
       <CategoryList cateData={allPosts}/> {/* Trending Topics */}
       <PostSectionFive postData={allPosts}/> {/* More Horror Goodies */}

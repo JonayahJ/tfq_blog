@@ -1,18 +1,17 @@
 ---
 postFormat: 'standard'
-title: '4 types of research methods all designers should know'
-featureImg: '/images/posts/thumbnail-01.webp'
-slidePost: true
-date: 'Feb 30 2022'
-pCate: 'Horror 101'
-cate: 'Horror 101'
-cate_img: '/images/posts/category/horror101.png'
-post_views: '200K Views'
-read_time: '3 min read'
-author_name: 'Rose Mary'
-author_img: '/images/posts/author/author-b2.webp'
-author_designation: 'Sr. UX Designer'
-author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
+title: "Kindred Is a Horror Story. Here's Why"
+featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1674317956/The%20Fright%20Queen/Reviews/Series/Kindred%20%282022%29/Kindred_FX-Cover_rjdqkm.jpg'
+date: 'Jul 23 2022'
+pCate: 'Series'
+cate: 'Black Horror'
+cate_img: '/images/posts/category/blackHorror.png'
+post_views: '400K Views'
+read_time: '2 min read'
+author_name: 'The Fright Queen'
+author_img: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1620600903/The%20Fright%20Queen/TFQbanner_mpnkei.png'
+author_designation: 'Your Friendly Neighborhood Horror Blogger'
+author_bio: 'Coming soon...'
 author_social:
     -
         icon: fab fa-facebook-f
@@ -27,12 +26,12 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - SEO
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Software
+    - Actors
+    - Black Horror
+    - Deep Dive
+    - Voice Actor
+    - Horror Legend
+    - Horror 101
 
 ---
 
@@ -74,5 +73,7 @@ Apple today named eight app and game developers receiving an Apple Design Award,
 More than 250 developers have been recognized with Apple Design Awards over the past 20 years. The recognition has proven to be an accelerant for developers who are pioneering innovative designs within their individual apps and influencing entire categories. Previous winners such as Pixelmator, djay, Complete Anatomy, HomeCourt, “Florence,” and “Crossy Road” have set the standard in areas such as storytelling, interface design, and use of Apple tools and technologies.
 
 For more information on the apps and games, visit the [App Store](#).
+
+
 
 

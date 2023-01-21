@@ -70,11 +70,11 @@ const Nav = ({posts}) => {
     return (
         <ul className="mainmenu">
             <li className="menu-item-has-children"><a href="/">Home</a></li>
-            <li>
+            {/* <li>
                 <Link href="/about">
                     <a>About</a>
                 </Link>
-            </li>
+            </li> */}
             <li>
                 <Link href="/post-list">
                     <a>Archive</a>

@@ -1,17 +1,17 @@
 ---
 postFormat: 'standard'
-title: 'A good traveler has no fixed plans, and is not intent on arriving.'
-featureImg: '/images/posts/thumbnail-07.webp'
-date: 'Apr 11 2022'
-pCate: 'Horror 101'
-cate: 'Horror 101'
-cate_img: '/images/posts/category/horror101.png'
-post_views: '300K Views'
-read_time: '3 min read'
-author_name: 'Rahabi Khan'
-author_img: '/images/posts/author/author-b1.webp'
-author_designation: 'Sr. UX Designer'
-author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
+title: 'Tales From the Hood: A Cultural Phenom'
+featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1674322152/The%20Fright%20Queen/Black%20Horror/tales_from_the_hood-Letterboxd_aoz5ks.jpg'
+date: 'Jun 25 2022'
+pCate: 'Black Horror'
+cate: 'Black Horror'
+cate_img: '/images/posts/category/blackHorror.png'
+post_views: '100K Views'
+read_time: '5 min read'
+author_name: 'The Fright Queen'
+author_img: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1620600903/The%20Fright%20Queen/TFQbanner_mpnkei.png'
+author_designation: 'Your Friendly Neighborhood Horror Blogger'
+author_bio: 'Coming soon...'
 author_social:
     -
         icon: fab fa-facebook-f
@@ -26,12 +26,12 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - SEO
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Software
+    - Tales From the Hood
+    - Movie Franchise
+    - American Horror
+    - Cult Classic
+    - Black America
+    - Social Issues
 
 ---
 
