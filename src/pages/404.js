@@ -10,7 +10,7 @@ const Error404 = ({allPosts}) => {
         <>
             <HeadTitle pageTitle="404 Not Found" />
             <HeaderOne postData={allPosts} pClass="header-light header-sticky header-with-shadow" />
-            <div className="error-area bg-color-grey" style={{backgroundImage: "url('/images/bg/bg-image-4.webp')"}}>
+            <div className="error-area bg-color-grey" style={{backgroundImage: "url('https://res.cloudinary.com/think-halcyon-llc/image/upload/v1620607498/The%20Fright%20Queen/TFQ_YT-Banner_dalvso.png')"}}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">

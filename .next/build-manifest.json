@@ -25,20 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/about": [
+    "/subscribe": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/about.js"
+      "static/chunks/pages/subscribe.js"
     ],
-    "/black-horror": [
+    "/subscription-thankyou": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/black-horror.js"
-    ],
-    "/privacy-policy": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/privacy-policy.js"
+      "static/chunks/pages/subscription-thankyou.js"
     ]
   },
   "ampFirstPages": []

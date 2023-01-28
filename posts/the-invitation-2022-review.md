@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 title: 'The Invitation (2022) Review'
-featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1673125175/The%20Fright%20Queen/Reviews/Movies/The%20Invitation%20%282022%29%20Review/TheInvitation_2022_iehwd6.jpg'
+featureImg: 'https://res.cloudinary.com/think-halcyon-llc/image/upload/v1674338064/The%20Fright%20Queen/Reviews/Movies/The%20Invitation%20%282022%29%20Review/The-Invitation-movie-film-horror-cover_fpmltq.jpg'
 videoLink: 'https://www.youtube.com/embed/5bL1ftuxgOE'
 featured: true
 date: 'Jan 13 2023'
